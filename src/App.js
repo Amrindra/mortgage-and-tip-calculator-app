@@ -15,6 +15,7 @@ export default function App() {
         <MortgageCalculator />
         <TipCalculator />
       </div>
+    <footer>&copy; These Apps were created by Amrindra Ouk</footer>
     </div>
   );
 }
